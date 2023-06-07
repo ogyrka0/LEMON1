@@ -1,0 +1,10 @@
+body{margin: 0;	padding: 0; /*height: 100%;*/ /*zoom:110%;*/
+	background-color: #eaeaea; min-width: 360px;	/*min-width: 1104px;*/ }
+h1,h2,h3,h4,ul,figure,figcaption{margin: 0; padding: 0;}
+
+@font-face {
+	font-family: 'string'; 
+	src: url(../fonts/string.ttf); 
+}
+
+.container{max-width: 1321px;  margin: 0 auto;}
